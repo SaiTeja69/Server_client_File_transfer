@@ -1,0 +1,8 @@
+chi.lemon.soup,datta
+chi.sweet.corn.soup,datta
+chi.clear.soup,datta
+chi.mancho.soup,datta
+chi.lemon.soup,datta
+chi.sweet.corn.soup,datta
+chi.clear.soup,datta
+chi.mancho.soup,datta
